@@ -16,6 +16,8 @@ public class Main {
 		
 		writer.print(readMatrix.toString());
 		writer.println("Suma matrice= "+workSquare.SumaMatrix());
+		writer.println("OK");
 		writer.close();
+		
 	}
 }
