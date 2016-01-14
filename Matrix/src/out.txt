@@ -15,5 +15,27 @@
  57 | 68 | 79 |  9 | 11 | 22 | 33 | 44 | 46
 ----+----+----+----+----+----+----+----+----
  47 | 58 | 69 | 80 |  1 | 12 | 23 | 34 | 45
-Suma matrice= 3321
-OK
+
+Suma matrice = 3321
+Suma elm. aflate sub diagonala principala = 1206.0
+Suma elm. pare din matrice = 1640
+Suma elm. impare din matrice = 1681
+Suma elm. prime din matrice = 1640
+Suma patratelor perfecte din matrice = 1640
+Elementul maxim din matrice = 81
+Elementul minim din matrice = 1
+Elementele pare din matrice = 40
+Numarul elementelor pare din matrice = 41
+Numarul patratelor perfecte din matrice = 39.0
+Numarul de elemente prime= 40
+Daca matricea este patratica: 
+Suma elm. de pe diagonala principala= 369
+Suma elm. de pe diagonala secundara= 370
+Suma elm. de deasupra diagonalei principale= 1746
+Suma elm. aflate sub diagonala principala = 1206.0
+Sumele nu sunt egale 369!=370
+Exista linii cu sume identice
+Exista coloane cu sume identice
+
+
+
